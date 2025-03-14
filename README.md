@@ -14,8 +14,3 @@ The **AI Weather Predictor** is a Python-based application that forecasts weathe
 - **Visualization**: Displays weather predictions using bar graphs.
 - **Model Comparison**: Compares the performance of all models using a grouped bar graph.
 
-## Installation
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Areeba314/ai-weather-predictor.git
-   cd ai-weather-predictor
